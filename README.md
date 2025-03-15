@@ -3,8 +3,8 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>🎓 Electrical Engineering Student at the University of Toronto</li>
-  <li>🌱 Currently learning Competitive Programming</li>
-  <li>💬 Ask me about <strong>Operating Systems, Computer Networks, Machine Learning, Digital Systems, Circuitry</strong></li>
+  <li>🌱 Currently learning competitive programming</li>
+  <li>💬 Ask me about <strong>operating systems, computer networks, machine learning, digital systems, circuitry</strong></li>
   <li>📫 Reach me at <strong>ershey.waqar@mail.utoronto.ca</strong></li>
 </ul>
 
