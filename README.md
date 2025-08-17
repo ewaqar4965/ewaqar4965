@@ -1,34 +1,77 @@
 # Hi, I'm Ershey!
 
 <h3 align="left">About me:</h3>
+
+- 🎓 Computer Engineering student @ University of Toronto  
+- 💡 Interests: Operating Systems, System Design, Computer Networks, Machine Learning, Digital Systems  
+- 🌱 Practicing competitive programming (ICPC preparations)  
+- 🚀 Passionate about building reliable, scalable, high-performance software
+
+<p align="left">
+As a computer engineering student with a passion for systems programming, machine learning, and operating systems, 
+I am interested in optimizing computing infrastructure to build reliable, scalable, and efficient systems. 
+Through academic coursework and personal projects, I have developed skills in low-level programming, 
+system design, and computer architecture.
+</p>
+<p align="left">
+My experience includes building real-time applications, developing tools to monitor and analyze system performance, 
+and training deep learning models for 3D reconstructions. I’m particularly captivated by how software can optimize 
+and elevate hardware systems to new levels of efficiency and scalability.
+</p>
+<p align="left">
+I thrive in collaborative, fast-paced environments and enjoy working on projects that challenge me to think critically 
+and creatively. My ambition is to contribute to distributed systems and applied machine learning 
+that push the boundaries of modern computing.
+</p>
+
+---
+
+<h3 align="left">🎓 Education</h3>
+
 <ul>
-  <li>🎓 Electrical engineering student at the University of Toronto</li>
-  <li>🌱 Currently learning competitive programming</li>
-  <li>💬 Ask me about <strong>operating systems, computer networks, machine learning, digital systems, circuitry</strong></li>
-  <li>📫 Reach me at <strong>ershey.waqar@mail.utoronto.ca</strong></li>
+  <li><strong>Degree:</strong> Bachelor of Applied Science in Computer Engineering</li>
+  <li><strong>University:</strong> University of Toronto</li>
+  <li><strong>Minor:</strong> Artificial Intelligence</li>
+  <li><strong>Expected Graduation:</strong> May 2027</li>
+  <li><strong>Relevant Courses:</strong> Data Structures and Algorithms, Operating Systems, Machine Learning, Computer Networks, Assembly, Digital Systems, Probability & Statistics</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🛠️ Technical Stack</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ershey" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ershey's LinkedIn" height="30" width="40" />
-</a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartus-007ACC?style=flat&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
 
-# 
-<h3 align="left">Tech Stack:</h3>
+---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+<h3 align="left">📬 Reach Me</h3>
 
-# 
-<h3 align="left">GitHub Stats:</h3>
+<ul>
+  <li><strong>University Email:</strong> ershey.waqar@mail.utoronto.ca</li>
+  <li><strong>Personal Email:</strong> ersheyw@gmail.com</li>
+</ul>
 
-![](https://github-readme-stats.vercel.app/api?username=ewaqar4965&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=ewaqar4965&theme=onedark&hide_border=false)<br/>
+<h3 align="left">🔗 Connect with Me</h3>
 
-#
-<h3 align="left">Top Contributed Repo:</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=ewaqar4965&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/ershey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ershey's LinkedIn" height="30" width="40" />
+  </a>
+</p>
