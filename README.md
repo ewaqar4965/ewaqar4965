@@ -31,9 +31,11 @@ that push the boundaries of modern computing.
 <ul>
   <li><strong>Degree:</strong> Bachelor of Applied Science in Computer Engineering</li>
   <li><strong>University:</strong> University of Toronto</li>
-  <li><strong>Minor:</strong> Artificial Intelligence</li>
+  <li><strong>Field of Study: Computer Engineering, Minor in Artificial Intelligence</li>
   <li><strong>Expected Graduation:</strong> May 2027</li>
-  <li><strong>Relevant Courses:</strong> Data Structures and Algorithms, Operating Systems, Machine Learning, Computer Networks, Assembly, Digital Systems, Probability & Statistics</li>
+  <li><strong>Software Courses:</strong> Machine Learning, Data Structures and Algorithms, Operating Systems, Computer Networks</li>
+  <li><strong>Hardware Courses:</strong> Assembly, Control Systems, Digital Systems, Digital Electronics, </li>
+  <li><strong>Project Management Courses:</strong> Engineering Strategies and Practice I, Engineering Strategies and Practice II, Software Design and Communication</li>
 </ul>
 
 ---
