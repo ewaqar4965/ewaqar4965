@@ -29,12 +29,17 @@ that push the boundaries of modern computing.
 <h3 align="left">🎓 Education</h3>
 
 <ul>
-  <li><strong>Degree:</strong> Bachelor of Applied Science in Computer Engineering</li>
   <li><strong>University:</strong> University of Toronto</li>
-  <li><strong>Field of Study: Computer Engineering, Minor in Artificial Intelligence</li>
+  <li><strong>Degree:</strong> Bachelor of Applied Science in Computer Engineering</li>
+  <li><strong>Field of Study:</strong> Computer Engineering; Minor in Artificial Intelligence</li>
   <li><strong>Expected Graduation:</strong> May 2027</li>
-  <li><strong>Software Courses:</strong> Machine Learning, Data Structures and Algorithms, Operating Systems, Computer Networks</li>
-  <li><strong>Hardware Courses:</strong> Assembly, Control Systems, Digital Systems, Digital Electronics, </li>
+</ul>
+
+<ul style="margin-top: 0.75rem;">
+  <li><strong>Software Courses:</strong> Machine Learning, Data Structures &amp; Algorithms, Operating Systems, Computer Networks</li>
+  <li><strong>Hardware Courses:</strong> Assembly, Control Systems, Digital Systems, Digital Electronics</li>
+   <li><strong>Math Courses:</strong> Linear Algebra, Multivariate Calculus, Probability &amp; Statistics, Signals &amp; Systems</li>
+</ul>
   <li><strong>Project Management Courses:</strong> Engineering Strategies and Practice I, Engineering Strategies and Practice II, Software Design and Communication</li>
 </ul>
 
