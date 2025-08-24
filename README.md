@@ -5,7 +5,7 @@
 - 🎓 Computer Engineering Student @ the University of Toronto  
 - 💡 Interests: Operating Systems, System Design, Computer Networks, Machine Learning, Digital Systems  
 - 🌱 Practicing competitive programming (ICPC preparations)  
-- 🚀 Passionate about building reliable, scalable, high-performance software
+- 🚀 Passionate about building reliable, scalable, and high-performance software
 
 <p align="left">
 As a computer engineering student with a passion for systems programming, machine learning, and operating systems, 
